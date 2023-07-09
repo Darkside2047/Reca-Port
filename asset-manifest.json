@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Reca-Port/static/css/main.e3c0792a.css",
+    "main.js": "/Reca-Port/static/js/main.b845c01f.js",
+    "static/media/recavid.mp4": "/Reca-Port/static/media/recavid.576f30fe23aa2aa1a3cc.mp4",
+    "static/media/sunsetbeach.jpg": "/Reca-Port/static/media/sunsetbeach.232529346fae9a383307.jpg",
+    "static/media/sportsbike.jpg": "/Reca-Port/static/media/sportsbike.c5217b25e4b79e1d3d90.jpg",
+    "static/media/portrait1.jpg": "/Reca-Port/static/media/portrait1.587d2efde83b0f451f77.jpg",
+    "static/media/Reca_Red_Txt_TP.png": "/Reca-Port/static/media/Reca_Red_Txt_TP.9cfb38451b88ce3ea4b3.png",
+    "static/media/mediaquery.png": "/Reca-Port/static/media/mediaquery.09ffc901bb63cf36b424.png",
+    "index.html": "/Reca-Port/index.html",
+    "main.e3c0792a.css.map": "/Reca-Port/static/css/main.e3c0792a.css.map",
+    "main.b845c01f.js.map": "/Reca-Port/static/js/main.b845c01f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3c0792a.css",
+    "static/js/main.b845c01f.js"
+  ]
+}
