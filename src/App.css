@@ -1,0 +1,54 @@
+.nav-link{
+
+    color:white;
+    font-style: italic;
+}
+
+.nav-link:hover{
+    color: rgb(225, 3, 3);
+  }
+
+
+  .mt-7P{
+
+    margin-top: 3rem !important;
+    color: black;
+    font-style: italic;
+  
+  }
+
+  .mt-5 {
+    margin-top: 5rem !important;
+    color: #ffffff;
+      text-shadow: 5px 3px 10px rgb(225, 3, 3);
+    font-style: italic;
+    font-size: 55px;
+  
+  }
+
+  .mt-4 {
+    margin-top: 1.5rem !important;
+    color: black;
+      text-shadow: 5px 3px 10px rgb(225, 3, 3);
+    font-style: italic;
+  }
+
+  .med{
+    height: 100%;
+    width: 100%;
+  }
+
+  video{
+
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+  }
+
+  @media(max-width: 400px){
+
+    img{
+    display: none;
+    }
+
+  }
